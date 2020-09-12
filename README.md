@@ -18,4 +18,4 @@
 - Para que pase el build en Travis
 
 # Versiones
-- 0.0.15 se realizaron cambios en la hubicación de carpetas y nombre del archivo de prueba de pystest
+- 1.0.15 se realizaron cambios en la hubicación de carpetas y nombre del archivo de prueba de pystest
